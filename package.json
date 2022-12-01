@@ -1,0 +1,18 @@
+{
+  "name": "advent-of-code-2022",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:thefyrewire/advent-of-code-2022.git",
+  "author": "thefyrewire",
+  "license": "MIT",
+  "scripts": {
+    "start": "ts-node day_01"
+  },
+  "dependencies": {
+    "ts-node": "^10.9.1",
+    "typescript": "^4.9.3"
+  },
+  "devDependencies": {
+    "@types/node": "^18.11.10"
+  }
+}
