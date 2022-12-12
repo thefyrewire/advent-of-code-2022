@@ -6,7 +6,7 @@
   "author": "thefyrewire",
   "license": "MIT",
   "scripts": {
-    "start": "ts-node day_11"
+    "start": "ts-node day_12"
   },
   "dependencies": {
     "ts-node": "^10.9.1",
